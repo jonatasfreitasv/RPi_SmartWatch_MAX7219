@@ -1,4 +1,4 @@
-# RPi_SmartWatch_MAX7219
+# RPi SmartWatch MAX7219
 
 Simple Smart Watch with RaspberryPI, MAX7219, Matrix LED and Python
 

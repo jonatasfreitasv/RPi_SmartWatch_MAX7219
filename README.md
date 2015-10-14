@@ -6,7 +6,7 @@ MAX7219 python library
 https://github.com/rm-hull/max7219
 
 
-Weather API
+Weather API to get key
 http://openweathermap.org/
 
 To run `python smart_watch.py`

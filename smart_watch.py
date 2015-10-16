@@ -45,5 +45,5 @@ def main():
 	device.show_message("||||||||||||||||||||")
 
 if __name__ == "__main__":
-    while True:
+	while True:
 		main()

@@ -1,0 +1,11 @@
+class Config:
+
+    display = dict(
+        total=4,
+        brightness=2
+    )
+
+    openWeather = dict(
+        locale='',
+        key='wq'
+    )
